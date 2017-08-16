@@ -1,0 +1,54 @@
+ .navbar{
+            background-color: #006600;
+            padding: 10px;
+        }
+        
+        .nav>li:hover{
+            background-color:white;
+        }
+        
+        .nav{
+            float: right;
+        }
+        
+        h1{
+            text-align: center;
+        }
+        
+        h2{
+            text-align: center;
+        }
+        
+        #transearch{
+            text-align: center;
+        }
+        
+        .row{
+            width: 100%;
+        }
+        
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #ADFEAA;
+            color: black;
+        }
+
+.urdufnt{
+    font-size: 30px;
+}
+
+#footer{
+    background-color: #006600;
+    margin-top: 200px;
+    height: 100px;
+}
